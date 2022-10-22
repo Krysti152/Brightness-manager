@@ -4,7 +4,7 @@ File brightness.py:
   Variables:
   
     - steps - 
-      Number of level of brightness
+      Number of brightness levels
 
     - min_val -
       Minimal value for brightness
