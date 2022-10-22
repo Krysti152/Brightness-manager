@@ -1,6 +1,7 @@
 # Brightness-manager for X
 File brightness.py:
   Variables:
+  
     - steps - 
       Number of level of brightness
 
@@ -13,6 +14,7 @@ File brightness.py:
     !! VALUES ARE MULTIPLIED BY 10 !!
   
   Functions:
+  
     - add() -
       Increases brightness by one level
     
