@@ -12,6 +12,9 @@ File brightness.py:
     - max_val -
       Maximum value for brightness
       
+    - def_path -
+      Path to directory with all these scripts
+      
     !! VALUES ARE MULTIPLIED BY 10 !!
   
   Functions:
@@ -36,5 +39,6 @@ File brightness.py:
 
 How to use:
   Firstly configure brightness.py for your own needs.
-  Then, just execute add.py or sub.py to manipulate screen brightness.
+  Then, execute add.py or sub.py to manipulate screen brightness.
   I recommend bind these scripts to keyboard shortcuts.
+  If you wanna reconfigure brightness.py just execute reset_bright.py to avoid unexpected problems and then, go edit main file.
