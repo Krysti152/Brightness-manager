@@ -1,5 +1,6 @@
 # Brightness-manager for X
 File brightness.py:
+
   Variables:
   
     - steps - 
