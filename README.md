@@ -14,9 +14,7 @@ File brightness.py:
       
     - def_path -
       Path to directory with all these scripts
-      
-    !! VALUES ARE MULTIPLIED BY 10 !!
-  
+     
   Functions:
   
     - add() -
